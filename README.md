@@ -8,6 +8,6 @@ lets see if you can win!
 play the game here:
 https://simmer.io/@ShakedCohen/intergalactic
 
-![Alt text](Screenshots/level 2.PNG?raw=true)
+![Alt text](Screenshots/level 2.PNG)
 ![Alt text](Screenshots/level 3.PNG?raw=true)
 ![Alt text](Screenshots/level 4.PNG?raw=true)
