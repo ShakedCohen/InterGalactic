@@ -4,7 +4,7 @@ The player is an ambitious rocket pilot and explorer. His goal is to wander acro
 demonstaration video [here!](https://drive.google.com/file/d/1oEUieDQ_m5ay1-pNQG7PDCtoUpB2rACp/view?usp=sharing)
 
 lets see if you can win!
-play the game [here](https://simmer.io/@ShakedCohen/intergalactic)
+play the game [here!](https://simmer.io/@ShakedCohen/intergalactic)
 
 ![Alt text](Screenshots/level2.png?raw=true)
 
